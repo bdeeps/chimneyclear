@@ -1,0 +1,106 @@
+{
+  "slug": "chimneyclear",
+  "box": 11,
+  "date": "2026-10-04",
+  "title": "ChimneyClear",
+  "question": "How do a kitchen chimney and gas hob work?",
+  "hook": "A spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.",
+  "thumbText": "HOW A CHIMNEY WORKS",
+  "field": "machines",
+  "minutes": 14,
+  "tags": [
+    "kitchen chimney",
+    "range hood",
+    "gas stove",
+    "LPG",
+    "combustion",
+    "Bunsen burner",
+    "flame failure device",
+    "baffle filter",
+    "ventilation",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Gas from a cylinder, smoke out through a duct",
+      "text": "LPG waits as a liquid in a 14.2 kg cylinder at about 5 bar. A regulator lets it out at a gentle 29 millibar, a hose carries it to the stove, and a valve behind each knob feeds a brass burner. Above, a chimney's blower pulls smoky air through grease filters and out through a duct."
+    },
+    {
+      "title": "Why a good flame is blue",
+      "text": "The gas shoots from a tiny injector into a mixing tube and drags air in with it, the Bunsen principle. With about half the air it needs premixed, the flame burns clean and blue at up to about 1,900 °C. Starved of air, unburnt carbon glows yellow as soot and the flame makes carbon monoxide."
+    },
+    {
+      "title": "Thousands of volts to light it, millivolts to keep it safe",
+      "text": "The igniter needs about 14,000 volts to make a spark jump a 4 mm gap. On stoves with a flame-failure device, a thermocouple in the flame makes about 28 millivolts to power a magnet that holds the gas valve open. If the flame dies, the voltage falls and a spring shuts the gas off."
+    },
+    {
+      "title": "The chimney doesn't suck the smoke up",
+      "text": "At the pan, 70 cm below the hood, a chimney's suction is only about 0.05 m/s. The smoke rises by itself in a hot plume at about 1 m/s. The hood has to be low and wide enough to swallow that plume before a draught pushes it out from under the edge."
+    },
+    {
+      "title": "Oil can't turn corners",
+      "text": "A baffle filter forces the air to zig-zag. Air follows easily, but oil droplets are about 750 times denser, so they keep going straight and hit the steel, then drain into the oil collector. Droplets smaller than a few microns slip through."
+    },
+    {
+      "title": "The number on the box is not the air you get",
+      "text": "Rated suction is measured with nothing in the way. The filter, a narrow duct, bends and a shut window all push back, so a 1,200 m³/h chimney often moves half to two thirds of that. Where the fan curve meets the duct's system curve is the airflow you really get."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "LPG",
+      "def": "Liquefied petroleum gas: mostly propane and butane, stored as a liquid under pressure in a cylinder."
+    },
+    {
+      "term": "Regulator",
+      "def": "The valve on the cylinder that lowers the gas pressure to a steady 29 millibar for the stove."
+    },
+    {
+      "term": "Primary air",
+      "def": "Air mixed with the gas inside the burner before it reaches the flame."
+    },
+    {
+      "term": "Bunsen principle",
+      "def": "A fast jet of gas drags the surrounding air into a tube with it, premixing fuel and air."
+    },
+    {
+      "term": "Carbon monoxide",
+      "def": "A poisonous, invisible gas made when fuel burns without enough oxygen."
+    },
+    {
+      "term": "Thermocouple",
+      "def": "Two different metals joined at a tip that make a small voltage when the tip is heated."
+    },
+    {
+      "term": "Flame-failure device",
+      "def": "A thermocouple and magnet valve that shut off the gas if the flame goes out."
+    },
+    {
+      "term": "Inertial impaction",
+      "def": "Catching particles by turning the air so sharply that they cannot follow and hit a surface."
+    },
+    {
+      "term": "System curve",
+      "def": "How much pressure a duct needs for each airflow. Where it meets the fan curve is the real airflow."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "chimneyclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

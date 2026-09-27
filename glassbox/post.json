@@ -1,0 +1,126 @@
+{
+  "slug": "chimneyclear",
+  "box": 11,
+  "question": "How do a kitchen chimney and gas hob work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/chimneyclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/chimneyclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "9,000 years from a hole in the roof above an open fire to a blue gas flame under a humming hood in hundreds of millions of kitchens.\n\n7000 BCE: A way out through the roof\n1185: Chimneys arrive in Europe\n1796: Count Rumford fixes the smoky fireplace\n1826: A gas stove you could buy\n1855: The Bunsen burner\n1912: Gas in a bottle\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/chimneyclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/chimneyclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #kitchenchimney #rangehood #gasstove #lpg #combustion #bunsenburner #history",
+      "youtube": {
+        "title": "The history of the kitchen chimney and gas hob in 45 seconds #shorts",
+        "description": "9,000 years from a hole in the roof above an open fire to a blue gas flame under a humming hood in hundreds of millions of kitchens.\n\n7000 BCE · A way out through the roof (People of Çatalhöyük)\n1185 · Chimneys arrive in Europe (Castle builders)\n1796 · Count Rumford fixes the smoky fireplace (Benjamin Thompson, Count Rumford)\n1826 · A gas stove you could buy (James Sharp)\n1855 · The Bunsen burner (Robert Bunsen and Peter Desaga)\n1912 · Gas in a bottle (Walter O. Snelling)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/chimneyclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/chimneyclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do a kitchen chimney and gas hob work?\n\nA spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.\n\n→ An Indian kitchen: an LPG cylinder, a gas stove, and a chimney above it.\n→ Gas flows from the cylinder, through a regulator and hose, to three brass burners.\n→ A jet of gas shoots into a tube and drags air in with it, just like a Bunsen burner.\n→ Too little air makes a lazy, sooty yellow flame. Enough air and it burns clean and blue.\n→ A spark of about 14,000 volts jumps a 4 mm gap and lights the gas.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/chimneyclear (link in bio)\n\nBox No. 011 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #kitchenchimney #rangehood #gasstove #lpg #combustion #bunsenburner #flamefailuredevice #bafflefilter #ventilation",
+    "carousel": "Swipe through: How do a kitchen chimney and gas hob work?\n\nA spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/chimneyclear (link in bio).\n\nBox No. 011 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #kitchenchimney #rangehood #gasstove #lpg #combustion #bunsenburner",
+    "youtube": {
+      "title": "How do a kitchen chimney and gas hob work? #shorts",
+      "description": "A spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/chimneyclear/\n⌘ Source code (MIT): https://github.com/bdeeps/chimneyclear\n\nBox No. 011 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do a kitchen chimney and gas hob work? (interactive explainer)",
+      "description": "A spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/chimneyclear/\n⌘ Source code (MIT): https://github.com/bdeeps/chimneyclear\n\nIn this video:\n• Gas from a cylinder, smoke out through a duct. LPG waits as a liquid in a 14.2 kg cylinder at about 5 bar.\n• Why a good flame is blue. The gas shoots from a tiny injector into a mixing tube and drags air in with it, the Bunsen principle.\n• Thousands of volts to light it, millivolts to keep it safe. The igniter needs about 14,000 volts to make a spark jump a 4 mm gap.\n• The chimney doesn't suck the smoke up. At the pan, 70 cm below the hood, a chimney's suction is only about 0.05 m/s.\n• Oil can't turn corners. A baffle filter forces the air to zig-zag.\n• The number on the box is not the air you get. Rated suction is measured with nothing in the way.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do a kitchen chimney and gas hob work?\n\nA spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/chimneyclear/",
+    "linkedin": "How do a kitchen chimney and gas hob work?\n\nA spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.\n\n1. Gas from a cylinder, smoke out through a duct\n2. Why a good flame is blue\n3. Thousands of volts to light it, millivolts to keep it safe\n4. The chimney doesn't suck the smoke up\n5. Oil can't turn corners\n6. The number on the box is not the air you get\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 011 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/chimneyclear/\nCode: https://github.com/bdeeps/chimneyclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T06:52:42.667Z"
+}
