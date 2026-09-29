@@ -1,16 +1,16 @@
 <!-- glassbox:start -->
 <!-- Generated from glassbox.json by the Glassbox hub (npm run readme -- chimneyclear). Edit glassbox.json, not this block. -->
-<p align="center"><a href="https://glassbox-production-fd52.up.railway.app/e/chimneyclear/"><img src="glassbox/cover.jpg" alt="How do a kitchen chimney and gas hob work?" width="100%"></a></p>
+<p align="center"><a href="https://glassbox.how/e/chimneyclear/"><img src="glassbox/cover.jpg" alt="How do a kitchen chimney and gas hob work?" width="100%"></a></p>
 
 <h1 align="center">ChimneyClear</h1>
 
 <p align="center"><b>How do a kitchen chimney and gas hob work?</b><br>A spark of 14,000 volts, a jet of gas that drags in its own air, and a hood that catches smoke it can barely suck. Take an Indian kitchen's gas stove and chimney apart in 3D and see why a good flame is blue.</p>
 
-<p align="center"><a href="https://glassbox-production-fd52.up.railway.app/chimneyclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox-production-fd52.up.railway.app/e/chimneyclear/">Read the 60-second explainer</a> &nbsp;·&nbsp; <a href="https://glassbox-production-fd52.up.railway.app/chimneyclear/glassbox/reel.mp4">Watch the 40-second video</a></p>
+<p align="center"><a href="https://glassbox.how/chimneyclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox.how/e/chimneyclear/">Read the 60-second explainer</a> &nbsp;·&nbsp; <a href="https://glassbox.how/chimneyclear/glassbox/reel.mp4">Watch the 40-second video</a></p>
 
 <p align="center">
-  <a href="https://glassbox-production-fd52.up.railway.app/e/chimneyclear/"><img alt="Glassbox No. 011" src="https://img.shields.io/badge/Glassbox-No.%20011-8ef0ff"></a>
-  <a href="https://glassbox-production-fd52.up.railway.app/e/chimneyclear/"><img alt="Machines" src="https://img.shields.io/badge/field-Machines-ff7a59"></a>
+  <a href="https://glassbox.how/e/chimneyclear/"><img alt="Glassbox No. 011" src="https://img.shields.io/badge/Glassbox-No.%20011-8ef0ff"></a>
+  <a href="https://glassbox.how/e/chimneyclear/"><img alt="Machines" src="https://img.shields.io/badge/field-Machines-ff7a59"></a>
   <a href="LICENSE"><img alt="Code: MIT" src="https://img.shields.io/badge/code-MIT-3fb950"></a>
   <a href="LICENSE-CONTENT.md"><img alt="Content: CC BY 4.0" src="https://img.shields.io/badge/content-CC%20BY%204.0-ef9421"></a>
   <a href="#privacy"><img alt="Privacy: explained" src="https://img.shields.io/badge/privacy-explained-555"></a>
@@ -52,24 +52,24 @@
 - **1933** · The range hood becomes a product (Vent-A-Hood, Dallas, Texas, USA)
 - **1965** · Indane lights up Kolkata (Indian Oil Corporation, Kolkata, India)
 
-The full story, with 29 moments, charts, people and 43 sources: [glassbox.how/e/chimneyclear/history](https://glassbox-production-fd52.up.railway.app/e/chimneyclear/history/). The data lives in [`history.json`](history.json).
+The full story, with 29 moments, charts, people and 43 sources: [glassbox.how/e/chimneyclear/history](https://glassbox.how/e/chimneyclear/history/). The data lives in [`history.json`](history.json).
 
 ## Video and slides
 
 Made with the Glassbox studio from this box's storyboard (`window.glassbox.director`). Free to reuse under CC BY 4.0.
 
-<a href="https://glassbox-production-fd52.up.railway.app/chimneyclear/glassbox/video.mp4"><img src="glassbox/thumb.jpg" alt="Video: How do a kitchen chimney and gas hob work?" width="100%"></a>
+<a href="https://glassbox.how/chimneyclear/glassbox/video.mp4"><img src="glassbox/thumb.jpg" alt="Video: How do a kitchen chimney and gas hob work?" width="100%"></a>
 
 <p><a href="glassbox/slide-1.jpg"><img src="glassbox/slide-1.jpg" alt="Carousel slide-1" width="24%"></a> <a href="glassbox/slide-2.jpg"><img src="glassbox/slide-2.jpg" alt="Carousel slide-2" width="24%"></a> <a href="glassbox/slide-3.jpg"><img src="glassbox/slide-3.jpg" alt="Carousel slide-3" width="24%"></a> <a href="glassbox/slide-4.jpg"><img src="glassbox/slide-4.jpg" alt="Carousel slide-4" width="24%"></a></p>
 
 | File | What | Size |
 |---|---|---|
-| [`glassbox/reel.mp4`](https://glassbox-production-fd52.up.railway.app/chimneyclear/glassbox/reel.mp4) | Reel / Short, with captions and soundtrack | 1080×1920 |
-| [`glassbox/video.mp4`](https://glassbox-production-fd52.up.railway.app/chimneyclear/glassbox/video.mp4) | YouTube video, with captions and soundtrack | 1920×1080 |
+| [`glassbox/reel.mp4`](https://glassbox.how/chimneyclear/glassbox/reel.mp4) | Reel / Short, with captions and soundtrack | 1080×1920 |
+| [`glassbox/video.mp4`](https://glassbox.how/chimneyclear/glassbox/video.mp4) | YouTube video, with captions and soundtrack | 1920×1080 |
 | `glassbox/slide-1…10.jpg` | Instagram carousel | 1080×1350 |
 | `glassbox/thumb.jpg` | YouTube thumbnail | 1280×720 |
 | `glassbox/cover.jpg` | Share card and repo social preview | 1200×630 |
-| [`glassbox/history-reel.mp4`](https://glassbox-production-fd52.up.railway.app/chimneyclear/glassbox/history-reel.mp4) | “History in 10 moments” Reel / Short | 1080×1920 |
+| [`glassbox/history-reel.mp4`](https://glassbox.how/chimneyclear/glassbox/history-reel.mp4) | “History in 10 moments” Reel / Short | 1080×1920 |
 | `glassbox/history-slide-*.jpg` | History carousel | 1080×1350 |
 | `glassbox/post.json` | Post copy and schedule used by the publish kit | |
 
@@ -83,14 +83,14 @@ It remembers a few things **in your own browser only**, and never sends them any
 |---|---|
 | `chimneyclear.v1` | Which chapters you have opened, your best quiz scores, and sound on or off. |
 
-Exactly what each one sees is at [glassbox.how/privacy](https://glassbox-production-fd52.up.railway.app/privacy/).
+Exactly what each one sees is at [glassbox.how/privacy](https://glassbox.how/privacy/).
 
 ## Licences
 
 - **Code:** [MIT](LICENSE). Use it, change it, ship it.
 - **Explanations, text, images and videos** (`glassbox.json`, `glassbox/`): [CC BY 4.0](LICENSE-CONTENT.md). Credit “Glassbox, glassbox.how/e/chimneyclear”.
 - **Third-party parts** keep their own licences: [three.js](https://threejs.org) (MIT), [Geist, Instrument Serif](https://openfontlicense.org) (SIL OFL 1.1).
-- The Glassbox name and logo aren't covered by either licence. See the [terms](https://glassbox-production-fd52.up.railway.app/terms/).
+- The Glassbox name and logo aren't covered by either licence. See the [terms](https://glassbox.how/terms/).
 
 Found a mistake? [Open an issue](https://github.com/bdeeps/chimneyclear/issues). Corrections happen in public.
 <!-- glassbox:end -->
